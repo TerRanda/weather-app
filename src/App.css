@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbit&display=swap');
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: 'Orbit', sans-serif;
+}
+.input-group{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+input{
+  width: 180px;
+  height: 40px;
+  border: 0.5px solid lightblue;
+  padding: 0px 10px;
+  font-family: 'Orbit', sans-serif;
+}
+button{
+  height: 40px;
+  border: 0.5px solid lightblue;
+  background-color: lightblue;
+  font-family: 'Orbit', sans-serif;
+}
+p{
+  font-weight: bold;
+}
